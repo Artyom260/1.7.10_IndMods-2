@@ -1,0 +1,98 @@
+[20:22:51] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[20:22:51] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[20:22:55] [Client thread/INFO] [PropertiesBase] Loaded CoreProperties from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.core.config
+[20:22:55] [Client thread/INFO] [PropertiesBase] Loaded FullMapProperties from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.fullmap.config
+[20:22:56] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.minimap.config
+[20:22:56] [Client thread/INFO] [PropertiesBase] Loaded MiniMapProperties2 from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.minimap2.config
+[20:22:56] [Client thread/INFO] [PropertiesBase] Loaded WebMapProperties from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.webmap.config
+[20:22:56] [Client thread/INFO] [PropertiesBase] Loaded WaypointProperties from D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\config\5.1\journeymap.waypoint.config
+[20:22:56] [Client thread/INFO] [?] Version: JourneyMap 5.1.4p2 Unlimited, built with Forge 10.13.4.1558
+Forge: 10.13.4.1614
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_US, locale=en_us
+Unlimited Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+MiniMapProperties{entityIconSetName=2D, showAnimals=false, showMobs=false, showPets=false, showPlayers=true, showSelf=true, showVillagers=false, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xyz, locationFormatVerbose=true, showCaves=false, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, active=true, compassFontScale=1, enabled=true, frameAlpha=0, name=minimap, orientation=North, position=Top Right, preferredMapType=day, reticleOrientation=Compass, shape=Square, showBiome=true, showCompass=true, showFps=false, showLocation=true, showReticle=true, sizePercent=25, terrainAlpha=100}
+MiniMapProperties2{enabled=false, shape=Rectangle, position=Top Center, showFps=false, showBiome=true, showLocation=true, showWaypointLabels=true, sizePercent=30, frameAlpha=60, terrainAlpha=60, orientation=My Heading, compassFontScale=1, showCompass=true, showReticle=true, reticleOrientation=Compass, preferredMapType=day, name=minimap2, id=2}
+FullMapProperties{entityIconSetName=2D, showAnimals=false, showMobs=false, showPets=false, showPlayers=true, showSelf=true, showVillagers=false, showWaypoints=true, zoomLevel=0, fontScale=1, locationFormat=xzyv, locationFormatVerbose=true, showCaves=false, showWaypointLabels=true, showMobHeading=true, showPlayerHeading=true, textureSmall=true, preferredMapType=day, showGrid=true}
+WaypointProperties{autoHideLabel=true, beaconEnabled=true, boldLabel=false, createDeathpoints=true, fontScale=2, managerEnabled=true, maxDistance=0, name=waypoint, showDistance=true, showName=true, showRotatingBeam=false, showStaticBeam=false, showTexture=true, textureSmall=true}
+WebMapProperties: , enabled=false, port=8080, showMobs=true, showAnimals=true, showVillagers=true, showPets=true, showPlayers=true, showWaypoints=true, entityIconSetName=2D
+CoreProperties{announceMod=false, autoMapPoll=2000, browserPoll=2000, cacheAnimalsData=3100, cacheMobsData=3000, cachePlayerData=1000, cachePlayersData=2000, cacheVillagersData=2200, caveIgnoreGlass=true, isUpdateCheckEnabled=false, renderDelay=2, hideSneakingEntities=true, logLevel=INFO, mapAntialiasing=true, mapBathymetry=false, mapCaveLighting=false, mapCrops=true, mapPlants=false, mapPlantShadows=false, mapSurfaceAboveCaves=true, tileHighDisplayQuality=true, mapTransparency=true, maxAnimalsData=32, maxMobsData=32, maxPlayersData=32, maxVillagersData=32, optionsManagerViewed=5.1.4p2, radarLateralDistance=64, radarVerticalDistance=16, recordCacheStats=false, renderOverlayEventTypeName=ALL, renderOverlayPreEvent=true, renderDistanceCaveMin=2, renderDistanceCaveMax=2, renderDistanceSurfaceMin=2, renderDistanceSurfaceMax=2, revealShape=Circle, themeName=Victorian, tileRenderType=1}
+[20:22:56] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg �ms
+[20:23:54] [Client thread/INFO] [JourneymapClient] postInitialize ENTER
+[20:24:01] [Client thread/INFO] [WorldInfoHandler] Registered channel: world_info
+[20:24:01] [Client thread/INFO] [IconSetFileHandler] Initializing icon sets...
+[20:24:04] [Client thread/INFO] [VersionCheck] Update check disabled in properties file.
+[20:24:04] [Client thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed§8 count §r1§8 avg §r§r10097,77§8ms§r
+[20:25:16] [Client thread/INFO] [ColorManager] Loading blocks and textures...
+[20:25:17] [Client thread/INFO] [BlockMD] Built BlockMD cache (3095) : BlockMD.reset count 1 avg 402,95ms
+[20:25:17] [Client thread/INFO] [ColorHelper_1_7_10] initBlocksTexture: 2048x2048 loaded in 311.4379ms
+[20:25:21] [Client thread/INFO] [ColorPalette] Existing color palette's resource packs and mod names match current loadout.
+[20:25:21] [Client thread/INFO] [ColorManager] Loaded 2935 block colors from color palette file in 7ms: D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\colorpalette.json
+[20:25:21] [Client thread/INFO] [ColorManager] Initialized 71 block colors from mods and resource packs in 217ms
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockGrinder:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzSlabBlock.double:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.SkyStoneSlabBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockIOPort:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCharger:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCraftingStorage:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCellWorkbench:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzSlabBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzStairBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:jupiterSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:neptuneSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.FluixSlabBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockInterface:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCraftingUnit:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzPillarSlabBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockChest:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.OreQuartz:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:erisSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzPillar:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzTorch:0] (HasAir,NoShadow,Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCreativeEnergyCell:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:venusSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartz:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCraftingMonitor:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockMolecularAssembler:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.FluixStairBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.SkyStoneSlabBlock.double:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockEnergyAcceptor:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:plutoSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockDrive:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockSkyStone:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzLamp:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuantumLinkChamber:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockFluix:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCrank:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockWireless:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockSkyChest:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzPillarStairBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockSecurity:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockInscriber:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockSpatialPylon:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.SkyStoneStairBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.FluixSlabBlock.double:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzGrowthAccelerator:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzGlass:0] (OpenToSky,Transparency,Error,TransparentRoof)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockController:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockSpatialIOPort:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:saturnSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [GalacticraftCore:tile.viewScreen:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockLightDetector:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.ChiseledQuartzSlabBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.ChiseledQuartzStairBlock:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuartzChiseled:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockVibrationChamber:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockQuantumRing:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.OreQuartzCharged:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [ExtraPlanets:uranusSpawner:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockTinyTNT:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.QuartzPillarSlabBlock.double:0] (Transparency,Error)
+[20:25:21] [Client thread/WARN] [ColorPalette] Block with Error flag won't be saved to color palette: BlockMD [appliedenergistics2:tile.BlockCondenser:0] (Transparency,Error)
+[20:25:22] [Client thread/INFO] [ColorPalette] Color palette file generated with 2935 colors in 173ms for: D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\colorpalette.json
+[20:25:22] [Client thread/INFO] [ColorManager] Updated color palette file: D:\Games\Minecraft\Versions\1.7.10_Forge_3\journeymap\colorpalette.json
